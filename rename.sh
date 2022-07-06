@@ -7,3 +7,4 @@ do
 	mv $name.txt $name.html
 done < output
 ls
+echo "delete this line"
