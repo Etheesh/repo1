@@ -8,3 +8,4 @@ do
 		echo "$i serivce is down, please take neccessary action" | mail -s "alert : $i service down" -c jkbhavith@gmail.com
 	fi
 done
+echo "delete this line"
