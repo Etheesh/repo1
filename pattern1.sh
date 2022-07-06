@@ -11,4 +11,3 @@ then
        else
 	       echo "the $pattern is not found in the file $file"
 fi
-echo "delete line send to central repo"
